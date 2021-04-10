@@ -1,2 +1,2 @@
 # bioGit
-Para empezar
+Sesión 1: pruebas en clase
